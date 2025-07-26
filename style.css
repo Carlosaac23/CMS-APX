@@ -8,6 +8,7 @@ body {
   background-color: #ededed;
   color: #1f1f1f;
   font-family: Geist, sans-serif;
+  font-size: 18px;
   margin: 0;
 }
 
@@ -16,16 +17,19 @@ body {
 
 .portfolio__title {
   font-size: 38px;
-  margin: 0;
+  margin: 40px 0 0 0;
+  text-align: center;
 }
 
 .portfolio__description {
   font-size: 24px;
-  margin: 0;
+  margin: 7px 0 0 0;
+  text-align: center;
 }
 
 .portfolio__content {
   margin-top: 20px;
+  padding: 40px;
 }
 
 .portfolio__card {
@@ -36,4 +40,25 @@ body {
 .portfolio__img {
   object-fit: cover;
   height: 255px;
+  width: 100%;
+}
+
+.portfolio__card-content {
+  padding: 20px;
+}
+
+.portfolio__card-title {
+  font-size: 30px;
+  margin: 0;
+}
+
+.portfolio__card-text {
+  margin: 0;
+}
+
+.portfolio__card-link {
+  color: #51aff3;
+  display: block;
+  text-align: right;
+  margin-top: 20px;
 }
