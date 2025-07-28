@@ -48,11 +48,3 @@ El archivo JS utiliza la API de Contentful para cargar proyectos automáticament
 - Campos requeridos: `titulo`, `descripcion`, `imagen`, `url`.
 
 Puedes adaptar el endpoint o los campos según tu propio espacio de Contentful.
-
-## Ejemplo de Vista
-
-La página incluye una sección con tarjetas de ejemplo configurables. Puedes personalizar imágenes, títulos, descripciones y enlaces según tus necesidades.
-
----
-
-¿Quieres que lo guarde/reescriba como tu nuevo `README.md`?
